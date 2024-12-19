@@ -1,2 +1,2 @@
 # crypto-bot
-Um bot de Discord para o monitoramento do mercado de criptoativos, alertando sobre variações no preço, mudanças de tendências e criando relatórios diários.
+Um bot de Discord projetado para o monitoramento em tempo real do mercado de criptoativos, fornecendo preços atualizados, gráficos detalhados, variações percentuais, volumes de mercado e o índice fear & greed.
